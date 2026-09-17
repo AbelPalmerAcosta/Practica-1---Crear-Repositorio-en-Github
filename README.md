@@ -3,4 +3,4 @@
 Repositorio público creado para la práctica con ramas `main` y `dev`.
 
 ## Enlace del Repositorio
-[URL de tu repositorio](https://github.com/tu-usuario/tu-repositorio)
+[URL de tu repositorio](https://github.com/AbelPalmerAcosta/Practica-1---Crear-Repositorio-en-Github)
